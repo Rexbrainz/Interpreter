@@ -1,12 +1,15 @@
-# Rex is an interpreter with the following features
+# Rex is an interpreter.
 
-C-like syntax
-• variable bindings
-• integers and booleans
-• arithmetic expressions
-• built-in functions
-• first-class and higher-order functions
-• closures
-• a string data structure
-• an array data structure
-• a hash data structure
+### Features
+
+- C-like syntax  
+- Variable bindings  
+- Integers and booleans  
+- Arithmetic expressions  
+- Built-in functions  
+- First-class and higher-order functions  
+- Closures  
+- String data structure  
+- Array data structure  
+- Hash data structure
+
