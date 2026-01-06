@@ -1,4 +1,5 @@
-# Rex is an interpreter.
+# An interpreter.
+  This project Follows the "Write an interpreter" by Thorsten Ball
 
 ### Features
 
